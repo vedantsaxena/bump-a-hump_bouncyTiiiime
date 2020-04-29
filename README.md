@@ -1,2 +1,2 @@
-# bump-a-hump_bouncyTiiiime
-a very 'different' bounceOff command 'game'
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
